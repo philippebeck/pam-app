@@ -1,0 +1,25 @@
+{
+  "name": "pam-app",
+  "description": "Template to start a Web Application with the Pam microframework",
+  "keywords": [
+    "template",
+    "web",
+    "application",
+    "php",
+    "mvc"
+  ],
+  "license": "MIT",
+  "main": "index.php",
+  "homepage": "https://philippebeck.net",
+  "repository": "github:philippebeck/pam-app",
+  "bugs": "https://github.com/philippebeck/pam-app/issues",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2",
+    "animadio": "1.1.4"
+  },
+  "author": {
+    "name": "Philippe Beck",
+    "email": "philippe@philippebeck.net",
+    "url": "https://philippebeck.net"
+  }
+}
