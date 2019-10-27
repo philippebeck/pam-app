@@ -1,0 +1,46 @@
+{
+  "name": "philippebeck/pam-app",
+  "version": "0.1.0",
+  "type": "project",
+  "description": "Template to start a Web Application with the Pam microframework",
+  "keywords": [
+    "template",
+    "web",
+    "application",
+    "php",
+    "mvc"
+  ],
+  "homepage": "https://pam-app.philippebeck.net",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Philippe Beck",
+      "email": "philippe@philippebeck.net",
+      "homepage": "https://philippebeck.net",
+      "role": "Lead Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require": {
+    "php": "7.2",
+    "philippebeck/pam": "^2.0.2"
+  },
+  "require-dev": {
+    "tracy/tracy": "^2.7.0"
+  },
+  "config": {
+    "platform": {
+      "php": "7.2"
+    }
+  },
+  "support": {
+    "email": "admin@philippebeck.net",
+    "issues": "https://github.com/philippebeck/pam-app/issues",
+    "wiki": "https://github.com/philippebeck/pam-app/wiki",
+    "source": "https://github.com/philippebeck/pam-app"
+  }
+}
