@@ -4,6 +4,7 @@ Template to start a Web Application with the Pam microframework
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/96fb7a439d4f49b987958a5c58bccb39)](https://www.codacy.com/manual/philippebeck/pam-app?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=philippebeck/pam-app&amp;utm_campaign=Badge_Grade)
 [![Maintainability](https://api.codeclimate.com/v1/badges/124cd6d0384a7bc68ebb/maintainability)](https://codeclimate.com/github/philippebeck/pam-app/maintainability)
+[![Dependabot](https://badgen.net/dependabot/dependabot/dependabot-core/?icon=dependabot)](https://github.com/philippebeck/pam-app/graphs/contributors)
 
 ## Overview
 
@@ -52,7 +53,7 @@ Composer : `composer create-project philippebeck/pam-app`
 
 pam-app has continuous support !
 
-[![Project Maintained](https://img.shields.io/maintenance/yes/2019.svg?label=Maintained)](https://github.com/philippebeck/pam-app)
+[![Project Maintained](https://img.shields.io/maintenance/yes/2020.svg?label=Maintained)](https://github.com/philippebeck/pam-app)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/philippebeck/pam-app.svg?label=Last+Commit)](https://github.com/philippebeck/pam-app/commits/master)
 
 ---
