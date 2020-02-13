@@ -4,7 +4,6 @@ Template to start a Web Application with the Pam microframework
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/96fb7a439d4f49b987958a5c58bccb39)](https://www.codacy.com/manual/philippebeck/pam-app?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=philippebeck/pam-app&amp;utm_campaign=Badge_Grade)
 [![Maintainability](https://api.codeclimate.com/v1/badges/124cd6d0384a7bc68ebb/maintainability)](https://codeclimate.com/github/philippebeck/pam-app/maintainability)
-[![Dependabot](https://badgen.net/dependabot/dependabot/dependabot-core/?icon=dependabot)](https://github.com/philippebeck/pam-app/graphs/contributors)
 
 ## Overview
 
@@ -68,7 +67,7 @@ pam-app has continuous support !
 
 Documentation is available !
 
-[![WebSite Status](https://img.shields.io/website-up-down-green-red/https/github.com/philippebeck/pam-app/wiki.svg?label=Documentation)](https://github.com/philippebeck/pam-app/wiki)
+[![WebSite Status](https://img.shields.io/website-up-down-green-red/https/github.com/philippebeck/pam/wiki.svg?label=Documentation)](https://github.com/philippebeck/pam/wiki)
 
 ---
 
