@@ -1,9 +1,9 @@
 "use strict";
 
-// Replace 'your-frontend-site-key' with your Recaptcha frontend site key
+// Replace "your-frontend-site-key" with your Recaptcha frontend site key
 var onloadCallback = function() {
-    grecaptcha.render('recaptcha', {
-        'sitekey' : 'your-frontend-site-key'
+    grecaptcha.render("recaptcha", {
+        "sitekey" : "your-frontend-site-key"
     });
 };
 
