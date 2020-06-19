@@ -14,7 +14,7 @@
   "repository": "github:philippebeck/pam-app",
   "bugs": "https://github.com/philippebeck/pam-app/issues",
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.13.0",
+    "@fortawesome/fontawesome-free": "^5.13.1",
     "animadio": "2.4.4"
   },
   "author": {
