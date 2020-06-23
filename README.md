@@ -15,26 +15,15 @@ The usage of the CSS framework Animadio is included.
 
 ## Summary
 
--   [Package Manager](#package-manager)  
 -   [Download](#download)  
 -   [Support](#support)  
 -   [Open-Source](#open-source)  
--   [Documentation](#documentation)  
 -   [Issues](#issues)  
 -   [Pull Requests](#pull-requests)  
 -   [Contributing](#contributing)  
 -   [Versioning](#versioning)  
 -   [Creator](#creator)  
 -   [Copyright](#copyright)  
--   [Support on Beerpay](#support-on-beerpay)  
-
----
-
-## Package Manager
-
-[![Packagist Version](https://img.shields.io/packagist/v/philippebeck/pam-app.svg?label=Packagist)](https://packagist.org/packages/philippebeck/pam-app)
-
-Composer : `composer create-project philippebeck/pam-app`  
 
 ---
 
@@ -50,9 +39,9 @@ Composer : `composer create-project philippebeck/pam-app`
 
 ## Support
 
-pam-app has continuous support !
+pam-app has no continuous support !
 
-[![Project Maintained](https://img.shields.io/maintenance/yes/2020.svg?label=Maintained)](https://github.com/philippebeck/pam-app)
+[![Project Maintained](https://img.shields.io/maintenance/no/2020.svg?label=Maintained)](https://github.com/philippebeck/pam-app)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/philippebeck/pam-app.svg?label=Last+Commit)](https://github.com/philippebeck/pam-app/commits/master)
 
 ---
@@ -61,13 +50,6 @@ pam-app has continuous support !
 
 [![GitHub Stars](https://img.shields.io/github/stars/philippebeck/pam-app.svg?label=GitHub+:+pam-app+|+Stars)](https://github.com/philippebeck/pam-app)
 
----
-
-## Documentation
-
-Documentation is available !
-
-[![WebSite Status](https://img.shields.io/website-up-down-green-red/https/github.com/philippebeck/pam/wiki.svg?label=Documentation)](https://github.com/philippebeck/pam/wiki)
 
 ---
 
@@ -118,12 +100,3 @@ Philippe Beck
 Code released under the MIT License
 
 [![GitHub License](https://img.shields.io/github/license/philippebeck/pam-app.svg?label=License)](https://github.com/philippebeck/pam-app/blob/master/LICENSE)
-
----
-
-## Support on Beerpay
-
-Hey dude! Help me out for a couple of :beers:!
-
-[![Beerpay](https://beerpay.io/philippebeck/pam-app/badge.svg?style=beer-square)](https://beerpay.io/philippebeck/pam-app)  
-[![Beerpay](https://beerpay.io/philippebeck/pam-app/make-wish.svg?style=flat-square)](https://beerpay.io/philippebeck/pam-app?focus=wish)

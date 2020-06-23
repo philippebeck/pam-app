@@ -1,6 +1,6 @@
 {
   "name": "philippebeck/pam-app",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "type": "project",
   "description": "Template to start a Web Application with the Pam microframework",
   "keywords": [
@@ -26,7 +26,7 @@
   },
   "require": {
     "php": "7.3",
-    "philippebeck/pam": "^3.3.2"
+    "philippebeck/pam": "^4.2.1"
   },
   "require-dev": {
     "tracy/tracy": "^2.7.5"
