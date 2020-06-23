@@ -1,6 +1,6 @@
 {
   "name": "philippebeck/pam-app",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "type": "project",
   "description": "Template to start a Web Application with the Pam microframework",
   "keywords": [
