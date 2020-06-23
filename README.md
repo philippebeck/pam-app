@@ -50,7 +50,6 @@ pam-app has no continuous support !
 
 [![GitHub Stars](https://img.shields.io/github/stars/philippebeck/pam-app.svg?label=GitHub+:+pam-app+|+Stars)](https://github.com/philippebeck/pam-app)
 
-
 ---
 
 ## Issues
